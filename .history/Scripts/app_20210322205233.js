@@ -2,7 +2,6 @@
 	* Author: Muzhda Ehsan - 100770164  & Chibueze Momah - 100771241
 	* Date: 20-Mar-2021
 	* File: app.js
-  * Assignment: Lab#3
  */
 
 //IIFE - Immediately Invoked Function Expression
